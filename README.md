@@ -24,8 +24,4 @@ This project aims to replicate the core functionalities of YouTube, including vi
 - HTML
 - CSS
 
-## How to Use
-
-1. Clone the repository to your local machine.
-2. Open the `index.html` file in your web browser.
-3. Explore the YouTube clone and enjoy watching videos!
+![YouTube-Clone][Youtube.png]
