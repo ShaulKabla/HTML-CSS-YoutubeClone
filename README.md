@@ -24,4 +24,4 @@ This project aims to replicate the core functionalities of YouTube, including vi
 - HTML
 - CSS
 
-![YouTube-Clone][Youtube.png]
+![YouTube-Clone](Youtube.png)
